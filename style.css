@@ -47,7 +47,7 @@ a{
 }
 
 .section logo:hover{
-    color: #fff;
+    color: #ffa500;
     cursor: pointer;
     transition: 0.3s;
 }
