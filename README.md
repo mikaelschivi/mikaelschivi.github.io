@@ -1,6 +1,6 @@
 # mikaelschivi.github.io
 
-[mikaelschivi.github.io](mikaelschivi.github.io)
+[mikaelschivi.github.io](https://mikaelschivi.github.io/)
 
 ### **Roadmap**
 
