@@ -41,12 +41,12 @@ a{
     margin-bottom: 10px;
 }
 
-.section logo{
+.section a{
     font-size: 3.7rem;
     padding: 10px;
 }
 
-.section logo:hover{
+.section a:hover{
     color: #ffa500;
     cursor: pointer;
     transition: 0.3s;
